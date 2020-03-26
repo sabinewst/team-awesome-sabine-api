@@ -1,0 +1,39 @@
+{
+  "time-entries": [
+    {
+      "client": "Humanoids",
+      "endTime": "2020-03-10T16:30:00.000Z",
+      "id": 1,
+      "startTime": "2020-03-10T09:30:00.000Z",
+      "activity": "Testing"
+    },
+    {
+      "client": "Port of Rotterdam",
+      "endTime": "2020-03-10T09:30:00.000Z",
+      "id": 2,
+      "startTime": "2020-03-10T07:30:00.000Z",
+      "activity": "Design"
+    },
+    {
+      "client": "Humanoids",
+      "endTime": "2020-03-12T17:30:00.000Z",
+      "id": 3,
+      "startTime": "2020-03-12T09:30:00.000Z",
+      "activity": "Development"
+    },
+    {
+      "client": "Port of Rotterdam",
+      "endTime": "2020-03-15T16:30:00.000Z",
+      "startTime": "2020-03-15T08:15:00.000Z",
+      "id": 5,
+      "activity": "Design"
+    },
+    {
+      "client": "Humanoids",
+      "activity": "Development",
+      "endTime": "2020-03-23T16:00:00.000Z",
+      "startTime": "2020-03-23T08:00:00.000Z",
+      "id": 6
+    }
+  ]
+}
