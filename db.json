@@ -35,5 +35,34 @@
       "startTime": "2020-03-23T08:00:00.000Z",
       "id": 6
     }
+  ],
+  "team-members": [
+    {
+      "avatar": "/images/niels.jpg",
+      "currentEmployer": "Port of Rotterdam",
+      "firstName": "Niels",
+      "id": 1,
+      "lastName": "Brandhorst",
+      "role": "UX Designer",
+      "startingDate": "2018-02-01"
+    },
+    {
+      "avatar": "/images/sabine.jpg",
+      "currentEmployer": "Humanoids",
+      "firstName": "Sabine",
+      "id": 2,
+      "lastName": "Westerdijk",
+      "role": "Front-end Developer",
+      "startingDate": "2020-03-01"
+    },
+    {
+      "avatar": "/images/avatar.jpg",
+      "currentEmployer": "Humanoids",
+      "firstName": "Test",
+      "lastName": "Member",
+      "role": "Tester",
+      "startingDate": "2020-03-01",
+      "id": 3
+    }
   ]
 }
