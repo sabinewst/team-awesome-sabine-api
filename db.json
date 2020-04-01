@@ -38,8 +38,8 @@
   ],
   "team-members": [
     {
-      "avatar": "/images/niels.jpg",
-      "currentEmployer": "Port of Rotterdam",
+      "avatar": "/niels.jpg",
+      "currentClient": "Port of Rotterdam",
       "firstName": "Niels",
       "id": 1,
       "lastName": "Brandhorst",
@@ -47,8 +47,8 @@
       "startingDate": "2018-02-01"
     },
     {
-      "avatar": "/images/sabine.jpg",
-      "currentEmployer": "Humanoids",
+      "avatar": "/sabine.jpg",
+      "currentClient": "Humanoids",
       "firstName": "Sabine",
       "id": 2,
       "lastName": "Westerdijk",
@@ -56,8 +56,8 @@
       "startingDate": "2020-03-01"
     },
     {
-      "avatar": "/images/avatar.jpg",
-      "currentEmployer": "Humanoids",
+      "avatar": "/avatar.jpg",
+      "currentClient": "Humanoids",
       "firstName": "Test",
       "lastName": "Member",
       "role": "Tester",
