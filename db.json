@@ -38,13 +38,20 @@
   ],
   "team-members": [
     {
+      "address": "Waldorpstraat",
       "avatar": "/niels.jpg",
+      "bio": "Niels is a tech savy Architect and Entrepeneur, maintaining a keen interest in software and design tools, such as parametric modeling (Rhino/Grasshopper) and BIM.",
       "currentClient": "Port of Rotterdam",
+      "emailAddress": "Niels.Brandhorst@humanoids.nl",
+      "facebook": "nielsbrandhorst",
       "firstName": "Niels",
       "id": 1,
       "lastName": "Brandhorst",
+      "locality": "Den Haag",
+      "postalCode": "2521 CJ",
       "role": "UX Designer",
-      "startingDate": "2018-02-01"
+      "startingDate": "2018-02-01",
+      "twitter": "@nbrandhorst"
     },
     {
       "avatar": "/sabine.jpg",
@@ -63,6 +70,22 @@
       "role": "Tester",
       "startingDate": "2020-03-01",
       "id": 3
+    }
+  ],
+  "clients": [
+    {
+      "id": 1,
+      "location": "Rotterdam",
+      "logo": "/logo.jpg",
+      "name": "Humanoids",
+      "startingDate": "2017-01-01"
+    },
+    {
+      "id": 2,
+      "location": "Rotterdam",
+      "logo": "/Port_of_Rotterdam.jpg",
+      "name": "Port of Rotterdam",
+      "startingDate": "2019-06-01"
     }
   ]
 }
