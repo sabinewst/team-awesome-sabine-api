@@ -75,17 +75,21 @@
   "clients": [
     {
       "id": 1,
+      "contact": "Maarten Hoogvliet",
+      "emailAddress": "maarten.hoogvliet@humanoids.nl",
+      "endDate": "2030-01-01",
       "location": "Rotterdam",
       "logo": "/logo.jpg",
       "name": "Humanoids",
-      "startingDate": "2017-01-01"
+      "startDate": "2017-01-01"
     },
     {
       "id": 2,
+      "endDate": "2020-01-01",
       "location": "Rotterdam",
       "logo": "/Port_of_Rotterdam.jpg",
       "name": "Port of Rotterdam",
-      "startingDate": "2019-06-01"
+      "startDate": "2019-06-01"
     }
   ]
 }
